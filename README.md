@@ -2,26 +2,26 @@
 # Keyboard Race 🏎
 Hey, I challenge you! 👊
 
-![Challege][11] ![Purpose-Self_Development][12] ![Learn-myway][13]
+![Challege][8] ![Purpose-Self_Development][9] ![Learn-myway][10]
 
-[11]: https://img.shields.io/:Challenge-0-whiteGreen.svg?style=round-square
-[12]: https://img.shields.io/:Purpose-Self_Development-yellow.svg?style=round-square
-[13]: https://img.shields.io/:Learn-myway-purple.svg?style=round-square
+[8]: https://img.shields.io/:Challenge-0-whiteGreen.svg?style=round-square
+[9]: https://img.shields.io/:Purpose-Self_Development-yellow.svg?style=round-square
+[10]: https://img.shields.io/:Learn-myway-purple.svg?style=round-square
 
 
 ---
 
 ## Table of Contents
-* [Introduction][10]
-* [Why am I here?!][11]
-* [Last words][12]
+* [Introduction][11]
+* [Why am I here?!][12]
+* [Last Words][13]
 
 
-[10]: https://github.com/Hagar-Usama/Surface-Lab#introduction
+[11]: https://github.com/Hagar-Usama/Keyboard-Race#introduction
 
-[11]: https://github.com/Hagar-Usama/Surface-Lab#technologies
+[12]: https://github.com/Hagar-Usama/Keyboard-Race#why-am-i-here
 
-[12]: https://github.com/Hagar-Usama/Surface-Lab#launch
+[13]: https://github.com/Hagar-Usama/Keyboard-Race#last-words
 
 
 ---
