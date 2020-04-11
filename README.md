@@ -57,9 +57,7 @@ improving my accuracy. So,
 
 ![Victory][4]
 
-⚠ Remember Database Systems course?
->  TypeRush does not maintain the data integrity you learned in the first lab. So, make sure
-to lowercase you email til I find a way to report this bug! _Detected [Apr 10 2020]_
+
 
 **Challege accepted?**  Then star the repo  ⭐ and show off your skills! 😎
 
