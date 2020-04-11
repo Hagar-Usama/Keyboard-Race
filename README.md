@@ -1,0 +1,58 @@
+
+# Keyboard Race 🏎
+Hey, I challenge you! 👊
+
+![Challege][11] ![Purpose-Self_Development][12] ![Learn-myway][13]
+
+[11]: https://img.shields.io/:Challenge-0-whiteGreen.svg?style=round-square
+[12]: https://img.shields.io/:Purpose-Self_Development-yellow.svg?style=round-square
+[13]: https://img.shields.io/:Learn-myway-purple.svg?style=round-square
+---
+
+## Table of Contents
+* [Introduction][10]
+* [Why am I here?!][11]
+* [Last words][12]
+
+
+[10]: https://github.com/Hagar-Usama/Surface-Lab#introduction
+
+[11]: https://github.com/Hagar-Usama/Surface-Lab#technologies
+
+[12]: https://github.com/Hagar-Usama/Surface-Lab#launch
+---
+
+## Introduction
+
+We do need a fairly good typing speed, don't we?
+
+>In one study of average computer users, the average rate for transcription was 33 words per minute, and only 19 words per minute for composition. In the same study, when the group was divided into ‘fast’, ‘moderate’ and ‘slow’ groups, the average speeds were 40wpm, 35wpm, and 23wpm respectively. ‘Hunt and Peck’ typists can reach speeds of about 37wpm for memorized text, and 27wpm when copying text.<br>
+An average professional typist reaches **50 to 70wpm**. [1]
+
+---
+
+## Why am I here?!
+
+I typed 64 WPM! Try and **beat** my score in [TypeRush][3]!  😜
+
+---
+
+## Last words
+My average speed is 45 WPM (the average). And it gets lower as I am
+improving my accuracy. So,
+* Make sure you maintain your typing accuracy. Try [this][4].
+* Have you noticed **bumps** in J and F keys? Now, you got one tip! [2]
+
+
+⚠ Remember Database Systems course?
+>  TypeRush does not maintain the data integrity you learned in the first lab. So, make sure
+to lowercase you email til I find a way to report this bug! _Detected [Apr 10 2020]_
+
+
+
+
+
+[1]: http://nomad.uk.net/articles/does-typing-speed-matter-for-programmers.html
+[2]:https://www.computerhope.com/issues/ch000922.htm
+[3]:https://www.typerush.com/in.html?in=a44fd7d6b41d316d8&c 'Start the League'
+[4]: https://typing-speed-test.aoeu.eu/
