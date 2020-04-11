@@ -40,7 +40,8 @@ An average professional typist reaches **50 to 70wpm**. [1]
 I typed 64 WPM! Try and **beat** my score in [TypeRush][3]!  😜
 
 
-![Invitation][4]
+![Invitation][7]
+
 
 
 ---
@@ -53,6 +54,8 @@ improving my accuracy. So,
 
 
 ![aoeu][6]
+
+![Victory][4]
 
 ⚠ Remember Database Systems course?
 >  TypeRush does not maintain the data integrity you learned in the first lab. So, make sure
@@ -67,4 +70,5 @@ to lowercase you email til I find a way to report this bug! _Detected [Apr 10 20
 [3]:https://www.typerush.com/in.html?in=a44fd7d6b41d316d8&c 'Start the League'
 [4]:https://github.com/Hagar-Usama/Keyboard-Race/blob/master/images/type_rush.png?raw=true
 [5]: https://typing-speed-test.aoeu.eu/
-[6]: https://github.com/Hagar-Usama/Keyboard-Race/blob/master/images/84165260_832058103923362_535775171353509888_o.jpg?raw=true
+[6]: https://github.com/Hagar-Usama/Keyboard-Race/blob/master/images/84165260_832058103923362_535775171353509888_o.jpg?raw=true '50 WPM'
+[7]:https://github.com/Hagar-Usama/Keyboard-Race/blob/master/images/race_invitation.png 'Invitation'
