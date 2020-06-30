@@ -2,7 +2,7 @@
 # Keyboard Race 🏎
 Hey, I challenge you! 👊
 
-![Challege][8] ![Purpose-Self_Development][9] ![Learn-myway][10]
+![Challege][8]  ![Learn-myway][10]
 
 [8]: https://img.shields.io/:Challenge-one-Green.svg?style=round-square
 [9]: https://img.shields.io/:Purpose-Self_Development-yellow.svg?style=round-square
